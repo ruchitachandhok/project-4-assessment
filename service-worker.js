@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/project-4-assessment.git/precache-manifest.a2d068684abf3b1f63638628d52e509a.js"
+  "/project-4-assessment/precache-manifest.63538ce7ee5a579106cac964ef7c3181.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/project-4-assessment.git/index.html", {
+workbox.routing.registerNavigationRoute("/project-4-assessment/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
