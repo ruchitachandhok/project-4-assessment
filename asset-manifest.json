@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/css/main.ce13e1fa.css",
-    "main.js": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/main.1ad58bfc.js",
-    "static/js/787.72170ad4.chunk.js": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/787.72170ad4.chunk.js",
-    "index.html": "/%3Cuser%20name%3E/%3Crepo%20name%3E/index.html",
-    "main.ce13e1fa.css.map": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/css/main.ce13e1fa.css.map",
-    "main.1ad58bfc.js.map": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/main.1ad58bfc.js.map",
-    "787.72170ad4.chunk.js.map": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/787.72170ad4.chunk.js.map"
+    "main.css": "/ruchitachandhok/project-4-assessment.git/static/css/main.ce13e1fa.css",
+    "main.js": "/ruchitachandhok/project-4-assessment.git/static/js/main.e34abe01.js",
+    "static/js/787.72170ad4.chunk.js": "/ruchitachandhok/project-4-assessment.git/static/js/787.72170ad4.chunk.js",
+    "index.html": "/ruchitachandhok/project-4-assessment.git/index.html",
+    "main.ce13e1fa.css.map": "/ruchitachandhok/project-4-assessment.git/static/css/main.ce13e1fa.css.map",
+    "main.e34abe01.js.map": "/ruchitachandhok/project-4-assessment.git/static/js/main.e34abe01.js.map",
+    "787.72170ad4.chunk.js.map": "/ruchitachandhok/project-4-assessment.git/static/js/787.72170ad4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce13e1fa.css",
-    "static/js/main.1ad58bfc.js"
+    "static/js/main.e34abe01.js"
   ]
 }
