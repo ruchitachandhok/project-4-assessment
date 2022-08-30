@@ -1,15 +1,15 @@
 {
-  "main.css": "//ruchitachandhok.github.io/project-4-assessment.git/static/css/main.07787def.chunk.css",
-  "main.js": "//ruchitachandhok.github.io/project-4-assessment.git/static/js/main.1121bb46.chunk.js",
-  "main.js.map": "//ruchitachandhok.github.io/project-4-assessment.git/static/js/main.1121bb46.chunk.js.map",
-  "static/js/1.7d8a5b69.chunk.js": "//ruchitachandhok.github.io/project-4-assessment.git/static/js/1.7d8a5b69.chunk.js",
-  "static/js/1.7d8a5b69.chunk.js.map": "//ruchitachandhok.github.io/project-4-assessment.git/static/js/1.7d8a5b69.chunk.js.map",
-  "static/js/2.1fb84335.chunk.js": "//ruchitachandhok.github.io/project-4-assessment.git/static/js/2.1fb84335.chunk.js",
-  "static/js/2.1fb84335.chunk.js.map": "//ruchitachandhok.github.io/project-4-assessment.git/static/js/2.1fb84335.chunk.js.map",
-  "runtime~main.js": "//ruchitachandhok.github.io/project-4-assessment.git/static/js/runtime~main.b023f61f.js",
-  "runtime~main.js.map": "//ruchitachandhok.github.io/project-4-assessment.git/static/js/runtime~main.b023f61f.js.map",
-  "static/css/main.07787def.chunk.css.map": "//ruchitachandhok.github.io/project-4-assessment.git/static/css/main.07787def.chunk.css.map",
-  "index.html": "//ruchitachandhok.github.io/project-4-assessment.git/index.html",
-  "precache-manifest.d56bbcc51409595a900abfa5d4a9489d.js": "//ruchitachandhok.github.io/project-4-assessment.git/precache-manifest.d56bbcc51409595a900abfa5d4a9489d.js",
-  "service-worker.js": "//ruchitachandhok.github.io/project-4-assessment.git/service-worker.js"
+  "main.css": "/project-4-assessment.git/static/css/main.07787def.chunk.css",
+  "main.js": "/project-4-assessment.git/static/js/main.1121bb46.chunk.js",
+  "main.js.map": "/project-4-assessment.git/static/js/main.1121bb46.chunk.js.map",
+  "static/js/1.7d8a5b69.chunk.js": "/project-4-assessment.git/static/js/1.7d8a5b69.chunk.js",
+  "static/js/1.7d8a5b69.chunk.js.map": "/project-4-assessment.git/static/js/1.7d8a5b69.chunk.js.map",
+  "static/js/2.1fb84335.chunk.js": "/project-4-assessment.git/static/js/2.1fb84335.chunk.js",
+  "static/js/2.1fb84335.chunk.js.map": "/project-4-assessment.git/static/js/2.1fb84335.chunk.js.map",
+  "runtime~main.js": "/project-4-assessment.git/static/js/runtime~main.2e02da40.js",
+  "runtime~main.js.map": "/project-4-assessment.git/static/js/runtime~main.2e02da40.js.map",
+  "static/css/main.07787def.chunk.css.map": "/project-4-assessment.git/static/css/main.07787def.chunk.css.map",
+  "index.html": "/project-4-assessment.git/index.html",
+  "precache-manifest.a2d068684abf3b1f63638628d52e509a.js": "/project-4-assessment.git/precache-manifest.a2d068684abf3b1f63638628d52e509a.js",
+  "service-worker.js": "/project-4-assessment.git/service-worker.js"
 }
