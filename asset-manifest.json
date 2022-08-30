@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/ruchitachandhok/project-4-assessment.git/static/css/main.ce13e1fa.css",
-    "main.js": "/ruchitachandhok/project-4-assessment.git/static/js/main.e34abe01.js",
-    "static/js/787.72170ad4.chunk.js": "/ruchitachandhok/project-4-assessment.git/static/js/787.72170ad4.chunk.js",
-    "index.html": "/ruchitachandhok/project-4-assessment.git/index.html",
-    "main.ce13e1fa.css.map": "/ruchitachandhok/project-4-assessment.git/static/css/main.ce13e1fa.css.map",
-    "main.e34abe01.js.map": "/ruchitachandhok/project-4-assessment.git/static/js/main.e34abe01.js.map",
-    "787.72170ad4.chunk.js.map": "/ruchitachandhok/project-4-assessment.git/static/js/787.72170ad4.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.ce13e1fa.css",
-    "static/js/main.e34abe01.js"
-  ]
+  "main.css": "/ruchitachandhok/project-4-assessment.git/static/css/main.07787def.chunk.css",
+  "main.js": "/ruchitachandhok/project-4-assessment.git/static/js/main.1121bb46.chunk.js",
+  "main.js.map": "/ruchitachandhok/project-4-assessment.git/static/js/main.1121bb46.chunk.js.map",
+  "static/js/1.7d8a5b69.chunk.js": "/ruchitachandhok/project-4-assessment.git/static/js/1.7d8a5b69.chunk.js",
+  "static/js/1.7d8a5b69.chunk.js.map": "/ruchitachandhok/project-4-assessment.git/static/js/1.7d8a5b69.chunk.js.map",
+  "static/js/2.1fb84335.chunk.js": "/ruchitachandhok/project-4-assessment.git/static/js/2.1fb84335.chunk.js",
+  "static/js/2.1fb84335.chunk.js.map": "/ruchitachandhok/project-4-assessment.git/static/js/2.1fb84335.chunk.js.map",
+  "runtime~main.js": "/ruchitachandhok/project-4-assessment.git/static/js/runtime~main.c8b27073.js",
+  "runtime~main.js.map": "/ruchitachandhok/project-4-assessment.git/static/js/runtime~main.c8b27073.js.map",
+  "static/css/main.07787def.chunk.css.map": "/ruchitachandhok/project-4-assessment.git/static/css/main.07787def.chunk.css.map",
+  "index.html": "/ruchitachandhok/project-4-assessment.git/index.html",
+  "precache-manifest.bed122b25b0b2869c0a9be8bf48017f1.js": "/ruchitachandhok/project-4-assessment.git/precache-manifest.bed122b25b0b2869c0a9be8bf48017f1.js",
+  "service-worker.js": "/ruchitachandhok/project-4-assessment.git/service-worker.js"
 }
